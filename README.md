@@ -4,8 +4,7 @@ A Yolo model which recognizes all 80 classes presnet in the original cocos.names
 
 
 _A Collage of Training images_
-![image](https://github.com/shilpiprd/YOLO_Multi_Object_Detector/blob/master/output/collage_download.jpeg)
-<img src="https://raw.githubusercontent.com/shilpiprd/YOLO_Multi_Object_Detector/master/output/collage_downloaded" alt="Image" width="1234" height="1600">
+<img src="https://raw.githubusercontent.com/shilpiprd/YOLO_Multi_Object_Detector/master/output/collage_download.jpeg" alt="Image" width="1200" height="1600">
 
 In this project, I'm using pretrained weights and configuration file.
 Follow these steps to successfully run the colab file. 
@@ -24,5 +23,4 @@ The classes which would be recognized by this model are present in the coco.name
 **Results**
 After running the image through the model, results look awesome!
 
-![image](https://github.com/shilpiprd/YOLO_Multi_Object_Detector/blob/master/output/download2.png)
 <img src="https://raw.githubusercontent.com/shilpiprd/YOLO_Multi_Object_Detector/master/output/download2.png" alt="Image" width="1024" height="1024">
